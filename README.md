@@ -1,4 +1,4 @@
-![embedded](https://user-images.githubusercontent.com/8418700/141161612-4674ee72-eb69-4f50-a70f-7b512f409b07.png)
+![paper](https://user-images.githubusercontent.com/8418700/141162383-3ec59a80-38fc-4764-b253-8c14d6a75383.png)
 
 <hr/>
-<div>Icons made by <a href="https://www.flaticon.com/authors/iconixar" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
